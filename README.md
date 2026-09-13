@@ -11,12 +11,14 @@
 ## 📂 Проекты
 
 ### C#/.NET
-*(скоро — сейчас работаю над добавлением)*
+- 
 
 ### Учебные проекты (другие языки)
 - [Golang-WebApp](https://github.com/GrozdnyiDeveloper/Golang-WebApp) — интернет-магазин на Golang (дипломный проект)
 - [Golang-Api](https://github.com/GrozdnyiDeveloper/Golang-Api) — API для магазина
 - [Java-Spring-Web](https://github.com/GrozdnyiDeveloper/Java-Spring-Web) — ИС на Spring/Java
+- [Python-Mpt](https://github.com/GrozdnyiDeveloper/Python-Mpt.git) — Учебные консольные приложения на Python
+- [Docker-Images](https://github.com/GrozdnyiDeveloper/Docker-Images.git) — Образы приложений на разных языках для развёртывания в Docker
 
 ## 📫 Связаться
 - Telegram: @grozdnyi
