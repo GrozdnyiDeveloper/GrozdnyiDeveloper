@@ -1,22 +1,23 @@
-## Приветствую, я Иван 👋
+# Иван Улесов — C#/.NET Developer
 
-И это мой github аккаунт, на котором я размещаю разработанные в процессе обучения и рабочей деятельности приложения. Список размещённых на данный момент проектов приведён ниже: 
+Привет! Я разработчик с опытом почти 3 года. Специализируюсь на C#/.NET, 
+работал с Microsoft Dynamics 365, T-SQL, интеграциями через REST API.
 
-- https://github.com/GrozdnyiDeveloper/Golang-WebApp - Web приложение онлайн магазина бытовой техники написанное на Golang
-- https://github.com/GrozdnyiDeveloper/Golang-Api - Api приложение для онлайн магазина бытовой техники, представленной выше
-- https://github.com/GrozdnyiDeveloper/Java-Spring-Web - Web приложение информационной системы онлайн магазина канцелярских товаров написанной на базе фреймворка Spring языка Java
+## 🛠 Стек
+- C#, .NET Core, ASP.NET, WPF
+- MS SQL Server, PostgreSQL, Redis
+- Docker, Git, CI/CD
 
-<!--
-**GrozdnyiDeveloper/GrozdnyiDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Проекты
 
-Here are some ideas to get you started:
+### C#/.NET
+*(скоро — сейчас работаю над добавлением)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Учебные проекты (другие языки)
+- [Golang-WebApp](https://github.com/GrozdnyiDeveloper/Golang-WebApp) — интернет-магазин на Golang (дипломный проект)
+- [Golang-Api](https://github.com/GrozdnyiDeveloper/Golang-Api) — API для магазина
+- [Java-Spring-Web](https://github.com/GrozdnyiDeveloper/Java-Spring-Web) — ИС на Spring/Java
+
+## 📫 Связаться
+- Telegram: @grozdnyi
+- Email: ylesov.ivan@gmail.com
