@@ -11,13 +11,17 @@
 ## 📂 Проекты
 
 ### Примеры рабочих проектов/частей проектов
-- [JavaScripts-Refractor](https://github.com/GrozdnyiDeveloper/JavaScripts-Refractor.git) — Пример проведения рефакторинга скриптов на JavaScript, используемых на формах сущностей системы Dynamics 365 CRM
-- [SSRS-ExampleReport](https://github.com/GrozdnyiDeveloper/SSRS-ExampleReport.git) — Пример SSRS (SQL Server Reporting Services) отчёта для отображения данных из Dynamics Dynamics 365 CRM
+#### Разработка серверных компонентов системы Dynamics 365 CRM 
 - [CSharp-PluginsAndWorkflows](https://github.com/GrozdnyiDeveloper/CSharp-PluginsAndWorkflows.git) — Примеры разработанных плагинов и кастомных шагов для системы Dynamics 365 CRM
+- [CSharp-FetchOperationsLibrary](https://github.com/GrozdnyiDeveloper/CSharp-FetchOperationsLibrary.git) — Библиотека кастомных шагов по обработке Fetch запросов и вспомогательных операциях в системе Dynamics 365 CRM
+#### Разработка клиентских компонентов системы Dynamics 365 CRM 
+- [JavaScripts-Refractor](https://github.com/GrozdnyiDeveloper/JavaScripts-Refractor.git) — Пример проведения рефакторинга скриптов на JavaScript, используемых на формах сущностей системы Dynamics 365 CRM
 - [JavaScript-FormReports](https://github.com/GrozdnyiDeveloper/JavaScript-FormReports.git) — Примеры HTML и JS файлов по отображению кастомных отчётов на форме сущности среды Dynamics 365
 - [JavaScript-PhonecallTranscript](https://github.com/GrozdnyiDeveloper/JavaScript-PhonecallTranscript.git) — Примеры HTML и JS файлов по реализации кастомного отображения транскрипции звонка на форме сущности в среде Dynamics 365
+#### Отчёты SSRS (SQL Server Reporting Services)
+- [SSRS-ExampleReport](https://github.com/GrozdnyiDeveloper/SSRS-ExampleReport.git) — Пример SSRS (SQL Server Reporting Services) отчёта для отображения данных из Dynamics Dynamics 365 CRM
+#### Интеграции внешних систем с Dynamics 365 CRM
 - [CSharp-TemplaterIntegration](https://github.com/GrozdnyiDeveloper/CSharp-TemplaterIntegration.git) — Интеграция внешних ПО Templater и LibreOffice с системой Dynamics 365 при помощи приложений на C#
-- [CSharp-FetchOperationsLibrary](https://github.com/GrozdnyiDeveloper/CSharp-FetchOperationsLibrary.git) — Библиотека кастомных шагов по обработке Fetch запросов и вспомогательных операциях в системе Dynamics 365 CRM
 - [SQL-ProfitabilityCalculation](https://github.com/GrozdnyiDeveloper/SQL-ProfitabilityCalculation.git) — Доработки интеграции по расчёту рентабельности для продуктов, хранящихся в системе Dynamics 365
 - [CSharp-PhoneCallsIntegration](https://github.com/GrozdnyiDeveloper/CSharp-PhoneCallsIntegration.git) — Доработки интеграций CRM с внешними телефониями MigthyCall, Comagic и Megafon
 - [CSharp-NextCloudIntegratiion](https://github.com/GrozdnyiDeveloper/CSharp-NextCloudIntegratiion.git) — Консольные приложения используемые для диагностики и настройки интеграции файловой системы NextCloud с системой Dynamics 365
