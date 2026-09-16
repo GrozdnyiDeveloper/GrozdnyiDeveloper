@@ -28,7 +28,9 @@
 --------------------------------------------
 ### Учебные проекты
 #### C#
-- [CSharp-TelegramBot](https://github.com/GrozdnyiDeveloper/CSharp-TelegramBot.git) — Чат бота на C# для Telegram по поиску данных компаний по ИНН
+- [CSharp-TelegramBot](https://github.com/GrozdnyiDeveloper/CSharp-TelegramBot.git) — Чат бот на C# для Telegram по поиску данных компаний по ИНН
+#### C
+- [C-Examples](https://github.com/GrozdnyiDeveloper/C-Examples.git) — Примеры простых учебных программ написанных на C
 #### Golang
 - [Golang-WebApp](https://github.com/GrozdnyiDeveloper/Golang-WebApp) — Интернет-магазин на Golang с полноценной архитектурой (дипломный проект)
 - [Golang-Api](https://github.com/GrozdnyiDeveloper/Golang-Api) — API для интернет-магазина на Golang (дипломный проект)
